@@ -1,0 +1,22 @@
+{
+  "name": "front_temple_mokumoku_rails",
+  "version": "1.0.0",
+  "description": "Frontend temple mokumoku",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiastolite-test/front_temple_mokumoku_rails.git"
+  },
+  "author": "@chiastolite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiastolite-test/front_temple_mokumoku_rails/issues"
+  },
+  "homepage": "https://github.com/chiastolite-test/front_temple_mokumoku_rails#readme",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "browserify-incremental": "^3.0.1"
+  }
+}
